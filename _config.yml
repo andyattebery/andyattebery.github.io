@@ -1,3 +1,9 @@
-name: Your New Jekyll Site
+name: Andy Attebery
 markdown: redcarpet
 pygments: true
+
+author:
+  name: Andy Attebery
+  email: me AT andyattebery DOT com
+  github: andyattebery
+  twitter: andyattebery
