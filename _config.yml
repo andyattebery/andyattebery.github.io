@@ -1,6 +1,8 @@
 name: Andy Attebery
-markdown: redcarpet
-pygments: true
+markdown: kramdown
+
+kramdown:
+  input: GFM
 
 author:
   name: Andy Attebery
