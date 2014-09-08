@@ -1,5 +1,6 @@
 ---
 title: A Github hosted Jekyll Based Blog
+layout: post
 ---
 
 1. [Create][ghp] a user Github Page.
@@ -8,5 +9,5 @@ title: A Github hosted Jekyll Based Blog
 4. Profit
 
 
-[ghp](https://help.github.com/articles/user-organization-and-project-pages)
-[ghj](https://help.github.com/articles/using-jekyll-with-pages)
+[ghp]: https://help.github.com/articles/user-organization-and-project-pages
+[ghj]: https://help.github.com/articles/using-jekyll-with-pages
