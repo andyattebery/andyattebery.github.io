@@ -1,4 +1,6 @@
-# A Github hosted Jekyll Based Blog
+---
+title: A Github hosted Jekyll Based Blog
+---
 
 1. [Create][ghp] a user Github Page.
 2. [Setup][ghj] Jekyll locally for previewing.
